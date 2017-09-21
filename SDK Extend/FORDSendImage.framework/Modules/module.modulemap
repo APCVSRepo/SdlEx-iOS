@@ -1,0 +1,6 @@
+framework module FORDSendImage {
+  umbrella header "FORDSendImage.h"
+
+  export *
+  module * { export * }
+}
